@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: nhatz.me.Java.Swing.Flappin_birb.Game
+
