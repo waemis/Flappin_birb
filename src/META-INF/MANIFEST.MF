@@ -1,3 +1,7 @@
 Manifest-Version: 1.0
+Created-By: Waemis
+Name: nhatz/me/Java.Swing.Flappin_birb/
 Main-Class: nhatz.me.Java.Swing.Flappin_birb.Game
+Application-Name: Flappin' Birb
+Application-Version: 0.1
 

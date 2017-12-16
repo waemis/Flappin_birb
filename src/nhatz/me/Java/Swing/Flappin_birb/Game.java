@@ -5,7 +5,7 @@ import java.awt.Dimension;
 public class Game {
 
 	public static void main (String[] args) {
-		Window game = new Window (new Dimension (1200, 600));
+		Window game = new Window (new Dimension (1200, 800));
 		game.play ();
 	}
 }
